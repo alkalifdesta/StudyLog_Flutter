@@ -109,4 +109,4 @@ milestone_01_form/
 
 *Praktikum Pemrograman Mobile – Milestone 1*
 
-Repository ini merupakan bagian dari pengerjaan proyek StudyLog menggunakan Flutter.
+Repository ini merupakan bagian dari pengerjaan proyek StudyLog menggunakan Flutter untuk praktikum pemrograman mobile.
