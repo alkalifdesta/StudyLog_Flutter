@@ -99,11 +99,11 @@ milestone_01_form/
 
 | No. | Nama Lengkap | NIM |
 | --- | --- | --- |
-| 1 | Erica Nabila Putri | 2411002 |
-| 2 | Salsabila Adnina Hadi | 2411022 |
-| 3 | Humaira Rizki Ramadhani | 2411094 |
-| 4 | Evi Suraidah | 2411095 |
-| 5 | Shofwan Alvino Putra Setiawan | 2411097 |
+| 1 | Alkalif Desta Dinova | 2411029 |
+| 2 | Muhammad Putra Aditya | 2411030 |
+| 3 | Haydar Ramadhan Abdala | 2411042 |
+| 4 | Darren Ferdinand Batubara | 2411077 |
+| 5 | Luis Lumbantoruan | 2411093 |
 
 
 
